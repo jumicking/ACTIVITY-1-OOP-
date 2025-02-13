@@ -18,11 +18,9 @@ package EmployeeTest;
 
      
         emp1.displayEmployeeInfo();
-        System.out.println("");
         emp2.displayEmployeeInfo();
-        System.out.println("");
         emp3.displayEmployeeInfo();
-        System.out.println("");
+      
 
     
     }
